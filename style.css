@@ -54,3 +54,40 @@ body {
   background-image: url('Images/Header-llustration-desktop@2x.svg');
   background-size: 100%;
 }
+
+.vh-50 {
+  height: 50vh;
+}
+
+.rWrksBadge {
+  background-color: #EBF0EE;
+  color: #172B4D;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.rWrksBttn {
+  color: #fff;
+  background-color: #36b37f;
+  width: 8.47vw;
+  height: max-content;
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #172B4D;
+  line-height: 32px;
+}
+
+.snapshot {
+  background-color: #ebf0ee;
+}
+
+#recentWorks {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172B4D;
+}
+
