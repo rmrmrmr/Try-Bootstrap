@@ -1,10 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
 
-.nav-text {
+body {
   font-family: Inter, sans-serif;
+}
+
+.nav-text {
   font-weight: 600;
   font-size: 15px;
   color: #344563;
   line-height: 20px;
   text-align: center;
+}
+
+.mainText {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.37px;
+  height: max-content;
+}
+
+#mainName {
+  color: #172B4D;
+}
+
+#mainJob {
+  color: #36b37e;
+  height: max-content;
+}
+
+#supText {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: center;
+  color: #172B4D;
+  width: 63.8vw;
+  height: max-content;
+}
+
+#sMediaIcons {
+  height: max-content;
+}
+
+#actionButtonPlaceholder {
+  height: 4vh;
+  width: 5vw;
+}
+
+#headline {
+  padding: 25.77vh;
+  background-image: url('Images/Header-llustration-desktop@2x.svg');
 }
