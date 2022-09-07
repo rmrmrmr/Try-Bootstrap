@@ -52,4 +52,5 @@ body {
 #headline {
   padding: 25.77vh;
   background-image: url('Images/Header-llustration-desktop@2x.svg');
+  background-size: 100%;
 }
