@@ -55,7 +55,7 @@ body {
   background-size: 100%;
 }
 
-.vh-50 {
+.min-vh-50 {
   height: 50vh;
 }
 
@@ -69,7 +69,7 @@ body {
 .rWrksBttn {
   color: #fff;
   background-color: #36b37f;
-  width: 8.47vw;
+  /* width: 8.47vw; */
   height: max-content;
 }
 
@@ -78,16 +78,24 @@ body {
   font-weight: 600;
   color: #172B4D;
   line-height: 32px;
+  height: max-content;
 }
 
 .snapshot {
   background-color: #ebf0ee;
+  min-height: 50%;
 }
 
-#recentWorks {
+#recentWorksTitle {
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
   color: #172B4D;
 }
+
+.langTag {
+  height: max-content;
+}
+
+
 
