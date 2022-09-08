@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+body {
+  font-family: Inter, sans-serif;
+}
+
+.nav-text {
+  font-weight: 600;
+  font-size: 15px;
+  color: #344563;
+  line-height: 20px;
+  text-align: center;
+}
+
+.mainText {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.37px;
+  height: max-content;
+}
+
+#mainName {
+  color: #172b4d;
+}
+
+#mainJob {
+  color: #36b37e;
+  height: max-content;
+}
+
+#supText {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: center;
+  color: #172b4d;
+  width: 63.8vw;
+  height: max-content;
+}
+
+#sMediaIcons {
+  height: max-content;
+}
+
+#actionButtonPlaceholder {
+  height: 4vh;
+  width: 5vw;
+}
+
+#headline {
+  padding: 25.77vh;
+  background-image: url('Images/Header-llustration-desktop@2x.svg');
+  background-size: 100%;
+}
+
+.min-vh-50 {
+  height: 50vh;
+}
+
+.rWrksBadge {
+  background-color: #ebf0ee;
+  color: #172b4d;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.rWrksBttn {
+  color: #fff;
+  background-color: #36b37f;
+
+  /* width: 8.47vw; */
+  height: max-content;
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #172b4d;
+  line-height: 32px;
+  height: max-content;
+}
+
+.snapshot {
+  background-color: #ebf0ee;
+  min-height: 50%;
+}
+
+#recentWorksTitle {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+}
+
+.langTag {
+  height: max-content;
+}
